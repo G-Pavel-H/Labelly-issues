@@ -20,5 +20,5 @@ If you encounter any problems while using Labelly or have suggestions for improv
 
 ## Links
 
-- [Labelly Web App](your-app-url)
-- [Contact Developer](your-linkedin-url)
+- [Labelly Web App](https://www.labelly.me)
+- [Contact Developer](https://www.linkedin.com/in/pavel-ghazaryan/)
